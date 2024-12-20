@@ -1,0 +1,10 @@
+{
+  "KBALL-LAKEN-L.eawag.wroot.emp-eaw.ch":{
+      "leman_sep2021":{
+        "datapath": "/storage/alplakes_test/MITgcm_results_Leman_Sep2021/results/",
+        "gridpath": "/storage/alplakes_test/MITgcm_results_Leman_Sep2021/results/",
+        "ref_date": "2021-07-26 0:0:0",
+        "dt": 4
+      }
+  }
+}
