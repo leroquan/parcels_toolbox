@@ -10,19 +10,22 @@
           "datapath": "/storage/alplakes_test/ARTFUL_project/01_2023-09-12/run",
           "gridpath": "/storage/alplakes_test/ARTFUL_project/01_2023-09-12/run",
           "ref_date": "2023-08-13 0:0:0",
-          "dt": 4
+          "dt": 4,
+          "nc_path": "/storage/alplakes_test/ARTFUL_project/01_2023-09-12/geneva_artful_01.nc"
       },
       "geneva_artful_02":{
           "datapath": "/storage/alplakes_test/ARTFUL_project/02_2023-11-08",
           "gridpath": "/storage/alplakes_test/ARTFUL_project/02_2023-11-08",
-          "ref_date": "2023-11-08 0:0:0",
-          "dt": 4
+          "ref_date": "2023-10-13 0:0:0",
+          "dt": 4,
+          "nc_path": "/storage/alplakes_test/ARTFUL_project/02_2023-11-08/geneva_artful_02.nc"
       },
       "geneva_artful_03":{
-          "datapath": "/storage/alplakes_test/ARTFUL_project/03_2024-05-01/run",
-          "gridpath": "/storage/alplakes_test/ARTFUL_project/03_2024-05-01/run",
-          "ref_date": "2024-05-01 0:0:0",
-          "dt": 4
+          "datapath": "/storage/alplakes_test/ARTFUL_project/03_2024-05-01",
+          "gridpath": "/storage/alplakes_test/ARTFUL_project/03_2024-05-01",
+          "ref_date": "2024-04-07 0:0:0",
+          "dt": 4,
+          "nc_path": "/storage/alplakes_test/ARTFUL_project/03_2024-05-01/geneva_artful_03.nc"
       }    
   }
 }
