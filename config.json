@@ -26,6 +26,13 @@
           "ref_date": "2024-04-07 0:0:0",
           "dt": 4,
           "nc_path": "/storage/alplakes_test/ARTFUL_project/03_2024-05-01/geneva_artful_03.nc"
-      }    
+      },
+      "geneva_madeline":{
+          "datapath": "/storage/alplakes_test/geneva_madeline_forecast",
+          "gridpath": "/storage/alplakes_test/geneva_madeline_forecast",
+          "ref_date": "2026-01-01 0:0:0",
+          "dt": 10,
+          "nc_path": "/storage/alplakes_test/geneva_madeline_forecast/geneva_100m_2026_forecast.nc"
+      }
   }
 }
